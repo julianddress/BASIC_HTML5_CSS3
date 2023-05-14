@@ -1,0 +1,85 @@
+/* LA DEFINICION DE ESTILOS DEL CSS SERAN BIEN REFLEJADOS EN LOS NAVEGADORES DE GOOGLE YA QUE GOOGLE ES UN NAVEGADOR RESPONSIVO OSEA QUE EL DISEÑO DE LA PAGINA SE ADAPTA AL COMPUTADOR, A LA TABLET O A UN CELULAR SIN CMABIAR EL DISEÑO Y ESO SE BUSCA EN UN PROGRAMADOR QUE MANEJE RESPONSIVIDAD EN LA CODIFICACION DE LAS PAGINAS WEB. */
+
+    /* 
+    TAMBIEN PODEMOS DEFINIR COLORES CON RGB.
+    ADEMAS LA CONNOTACION QUE INICIA CON # 
+    SIGNIFICA QUE USAMOS LAS NUMEROS HEXADECIMALES
+    0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+    DONDE EL 0 = NEGRO (VALOR = 0)
+    DONDE EL F = BLANCO (VALOR = 255)
+
+    #   C C C C C C
+        _ _ _ _ _ _
+        r r g g b b = RGB (RED, GREEN, BLUE)
+
+    background-color: rgb(0, 0, 0); */
+
+h1{
+    padding-left: 15px;
+}
+#banner{
+    width: 100%;
+}
+
+.principal{
+    padding: 15px;
+}
+
+h2{
+    text-align: center;
+    /* ALTURA RESPECTO A LO QUE HAY DEBAJO */
+    height: 50px;
+    /* CREA UN BORDE EN EL ESPACIO ESTABLECIDO EN H1 */
+    border: 10px solid #22a06f;
+    /* SEPARA INTERNAMENTE EL TEXTO DEL BORDE */
+    padding: 15px;
+    /* SEPARA EXTERNAMENTE EL BORDE DE LOS DEMAS CONTENIDOS */
+    margin: 15px;
+}
+
+p{
+    text-align: center;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+em strong{
+    color: blueviolet;
+}
+
+.diferenciales{
+    padding: 15px;
+}
+
+h3{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin: 15px;
+}
+.items{
+    font-style: italic;
+}
+
+#imgdiferenciales{
+    width: 30%;
+    height: 30%;
+}
+
+footer{
+    text-align: center;
+    background: url(../IMAGES/bg.jpg);
+    padding: 40px;
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+}
