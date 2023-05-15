@@ -2,7 +2,9 @@
 
 HI, WELCOME
 
-This repository will show you by modules the way we can design, practice, and interact with CSS and HTML. The main goal for this repository is to know all the basic structures of HTML and CSS so, we are going to create a web page about a barbershop where we can navigate in three different tabs with different structures and harder styles in each one with CSS and formats of HTML.
+This repository will show you by modules the way we can design, practice, and interact with CSS and HTML. The main goal for this repository is to know all the basic structures of HTML and CSS so, we are going to create a web page about a barbershop where we can navigate in three different tabs with different structures and harder styles in each one with CSS and formats of HTML. 
+
+Also this short project has been created in every single tab with responisve designs.
 
 MODULE 1:
 
